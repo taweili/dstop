@@ -2,9 +2,9 @@
   "name": "ds-top",
   "version": "0.0.1",
   "main": "dist-electron/main/index.js",
-  "description": "Simple Deepseek Desktop",
-  "author": "David Li <taweili@gmail.com",
-  "license": "MIT",
+  "description": "Simple Desktop for Deepseek Chat",
+  "author": "David Li <taweili@gmail.com>",
+  "license": "GPL",
   "private": true,
   "keywords": [
     "electron",
